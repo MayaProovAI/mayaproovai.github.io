@@ -1,0 +1,31 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.logo {
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 3.3/1;
+}
+
+.subtitle {
+  font-size: 18px;
+  margin-top: 120px;
+}
+
+.subtitle2 {
+  font-size: 15px;
+  margin-top: 20px;
+}
+.sign-up {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.waiting-list-form {
+  margin-top: 20px;
+}
